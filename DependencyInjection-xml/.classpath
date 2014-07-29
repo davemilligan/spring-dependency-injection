@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/media/sf_Shared/spring-framework-4.0.6.RELEASE-dist/spring-framework-4.0.6.RELEASE/libs/spring-core-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/media/sf_Shared/commons-logging-1.2-bin/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/media/sf_Shared/log4j-1.2.17/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/media/sf_Shared/spring-framework-4.0.6.RELEASE-dist/spring-framework-4.0.6.RELEASE/libs/spring-expression-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/media/sf_Shared/spring-framework-4.0.6.RELEASE-dist/spring-framework-4.0.6.RELEASE/libs/spring-context-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/media/sf_Shared/spring-framework-4.0.6.RELEASE-dist/spring-framework-4.0.6.RELEASE/libs/spring-beans-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/media/sf_Shared/spring-framework-4.0.6.RELEASE-dist/spring-framework-4.0.6.RELEASE/libs/spring-aop-4.0.6.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

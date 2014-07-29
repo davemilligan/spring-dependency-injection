@@ -1,0 +1,6 @@
+DependencyInjection-Annotated/.settings/
+DependencyInjection-xml/.settings
+DependencyInjection-Annotated/bin/
+DependencyInjection-xml/.bin
+.classpath/
+.metadata/
